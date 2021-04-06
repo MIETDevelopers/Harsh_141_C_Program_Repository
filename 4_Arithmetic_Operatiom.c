@@ -9,6 +9,7 @@ int main(){//main function body starts
     scanf("%d%d", &a, &b);
     
     c = a+b; //logic for adding two numbers
+    
     printf("a+b = %d\n",c); //printf statement to print addition output
     c = a-b;//logic for subtracting two numbers
     printf("a-b = %d\n",c);//printf statement to print subtraction output
